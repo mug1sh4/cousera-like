@@ -1,0 +1,7 @@
+{
+  "name": "Fusion EduTech Learning Platform",
+  "description": "Coursera-style learning platform for Fusion EduTech with course catalog, interactive lessons, Python code playground, quizzes, AI tutor, and role-based student, trainer, and admin workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
